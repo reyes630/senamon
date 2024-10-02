@@ -1,0 +1,5 @@
+name: "senamon"
+dependencies:
+  dart_console: ^4.1.0
+environment:
+  sdk: ^3.3.4
